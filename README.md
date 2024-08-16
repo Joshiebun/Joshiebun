@@ -1,12 +1,12 @@
 ## Hi there! 😊
 
-My name is Jinnysia (or Josh) and I have a deep-seated love for programming and everything about it. Nice to meet you!
+My name is Josh and I go by Jinnysia on GitHub. I have a deep-seated love for programming and everything about it. Nice to meet you!
 
-I love learning about technology and using what I've learned to make applications for practical use or for entertainment. I'm also a huge nerd.
+I love learning about technology and using what I've learned to make applications for practical use or for entertainment. Some of my friends would call me a nerd.
 
-My favorite language is **C#** and I use it for most of my aplications. I also enjoy using PHP, MySQL/PostgreSQL, and C++.
+My favorite language is **C#** and I use it for most of my aplications. I also enjoy using PHP, Java, MySQL/PostgreSQL, Python, and C++.
 
-I'm currently learning **Java** in classes, and I'm experimenting with **Python** and **C** on the side, too.
+Right now I'm learning Go so I can make delightful little applications using [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Wish](https://github.com/charmbracelet/wish).
 
 ### Sublime Dice
 I'm currently working on **SublimeDice** which is a virtual dice rolling game. It presents a pretty interface for end-users using .NET's WinForms, and communicates with a MySQL server on the Internet.
