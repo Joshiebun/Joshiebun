@@ -1,6 +1,6 @@
 ## Hi there! 😊
 
-My name is Josh or Joshie!. I have a deep-seated love for programming and everything about it. Nice to meet you!
+My name is Josh, or Joshie! I have a deep-seated love for programming and everything about it. Nice to meet you!
 
 I love learning about technology and using what I've learned to make applications for practical use or for entertainment. Some of my friends would call me a nerd.
 
